@@ -12,3 +12,11 @@
 ## Logiciels
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-black?logo=visualstudiocode)
 ![Static Badge](https://img.shields.io/badge/PHPStorm-black?logo=phpstorm)
+![Static Badge](https://img.shields.io/badge/Adobe%20XD-black?logo=adobexd)
+![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-black?logo=adobephotoshop)
+![Static Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-black?logo=adobepremierepro)
+![Static Badge](https://img.shields.io/badge/Adobe%20After%20Effects-black?logo=adobeaftereffects)
+
+
+
+
