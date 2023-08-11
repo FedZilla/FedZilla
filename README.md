@@ -13,7 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/PHP-black?logo=php)
 
 ![Static Badge](https://img.shields.io/badge/Symfony-black?logo=symfony)
-![Static Badge](https://img.shields.io/badge/wordpress-black?logo=wordpress)
+![Static Badge](https://img.shields.io/badge/Wordpress-black?logo=wordpress)
 
 ![Static Badge](https://img.shields.io/badge/mysql-black?logo=mysql)
 ![Static Badge](https://img.shields.io/badge/phpmyadmin-black?logo=phpmyadmin)
