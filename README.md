@@ -33,4 +33,4 @@ My name is Kévin, I'm 22 years old, and I am currently enrolled in a Level 5 (B
 ![Static Badge](https://img.shields.io/badge/Adobe%20XD-black?logo=adobexd)
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedZilla)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedZilla&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
