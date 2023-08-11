@@ -15,8 +15,8 @@
 ![Static Badge](https://img.shields.io/badge/Symfony-black?logo=symfony)
 ![Static Badge](https://img.shields.io/badge/Wordpress-black?logo=wordpress)
 
-![Static Badge](https://img.shields.io/badge/mysql-black?logo=mysql)
-![Static Badge](https://img.shields.io/badge/phpmyadmin-black?logo=phpmyadmin)
+![Static Badge](https://img.shields.io/badge/MySQL-black?logo=mysql)
+![Static Badge](https://img.shields.io/badge/phpMyAdmin-black?logo=phpmyadmin)
 
 
 ## Software
@@ -28,9 +28,9 @@
 ![Static Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-black?logo=adobepremierepro)
 ![Static Badge](https://img.shields.io/badge/Adobe%20After%20Effects-black?logo=adobeaftereffects)
 
-![Static Badge](https://img.shields.io/badge/windows-black?logo=windows)
-![Static Badge](https://img.shields.io/badge/linux-black?logo=linux)
-![Static Badge](https://img.shields.io/badge/github-black?logo=github)
+![Static Badge](https://img.shields.io/badge/Windows-black?logo=windows)
+![Static Badge](https://img.shields.io/badge/Linux-black?logo=linux)
+![Static Badge](https://img.shields.io/badge/Github-black?logo=github)
 
 ## Apprenticeship / advanced training
 ![Static Badge](https://img.shields.io/badge/PHP-black?logo=php)
