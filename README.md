@@ -8,6 +8,7 @@
 
 ## En apprentissage / perfectionnement
 ![Static Badge](https://img.shields.io/badge/PHP-gray?logo=php)
+![Static Badge](https://img.shields.io/badge/PHP-black?logo=php)
 
 ## Logiciels
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-gray?logo=visualstudiocode)
