@@ -6,7 +6,7 @@
 ## Achievement
 [![trophy](https://github-profile-trophy.vercel.app/?username=FedZilla)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Languages et outils
+## Languages & tools
 ![Static Badge](https://img.shields.io/badge/HTML-black?logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/CSS-black?logo=css3)
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript)
@@ -14,7 +14,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Symfony-black?logo=symfony)
 
-## Logiciels
+## Software
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-black?logo=visualstudiocode)
 ![Static Badge](https://img.shields.io/badge/PHPStorm-black?logo=phpstorm)
 
@@ -27,11 +27,11 @@
 ![Static Badge](https://img.shields.io/badge/linux-black?logo=linux)
 ![Static Badge](https://img.shields.io/badge/github-black?logo=github)
 
-## En apprentissage / perfectionnement
+## Apprenticeship / advanced training
 ![Static Badge](https://img.shields.io/badge/PHP-black?logo=php)
 ![Static Badge](https://img.shields.io/badge/Symfony-black?logo=symfony)
 ![Static Badge](https://img.shields.io/badge/Adobe%20XD-black?logo=adobexd)
 
-## Stats
+## Github statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedZilla&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedZilla)](https://github.com/anuraghazra/github-readme-stats)
