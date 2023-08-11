@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About
-My name is Kévin, I'm 22 years old, and I am currently enrolled in a Level 5 (Bachelors +2) web developer training program, with a strong preference for PHP development. At the moment, I am immersing myself in learning Symfony to enhance my skills. I enjoy turning ideas into functional lines of code and am constantly seeking new challenges.
+🇫🇷 | My name is Kévin, I'm 22 years old, and I am currently enrolled in a Level 5 (Bachelors +2) web developer training program, with a strong preference for PHP development. At the moment, I am immersing myself in learning Symfony to enhance my skills. I enjoy turning ideas into functional lines of code and am constantly seeking new challenges.
 
 ## Achievement
 [![trophy](https://github-profile-trophy.vercel.app/?username=FedZilla)](https://github.com/ryo-ma/github-profile-trophy)
