@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/JavaScript)
+
 
