@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=FedZilla)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Languages et outils
 ![Static Badge](https://img.shields.io/badge/HTML-black?logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/CSS-black?logo=css3)
