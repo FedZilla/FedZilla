@@ -13,6 +13,11 @@
 ![Static Badge](https://img.shields.io/badge/PHP-black?logo=php)
 
 ![Static Badge](https://img.shields.io/badge/Symfony-black?logo=symfony)
+![Static Badge](https://img.shields.io/badge/wordpress-black?logo=wordpress)
+
+![Static Badge](https://img.shields.io/badge/mysql-black?logo=mysql)
+![Static Badge](https://img.shields.io/badge/phpmyadmin-black?logo=phpmyadmin)
+
 
 ## Software
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-black?logo=visualstudiocode)
